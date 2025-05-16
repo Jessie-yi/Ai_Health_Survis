@@ -1,0 +1,156 @@
+[
+  {
+    "id": "1",
+    "title": "Visualization Resources: A Survey",
+    "authors": "X. Liu, M. Alharbi, J. Chen, A. Diehl, E. E. Firat, D. Rees, Q. Wang, and R. S. Laramee",
+    "year": "2022",
+    "topic": "Visualization Resources",
+    "method": "Survey",
+    "evaluation": "None",
+    "tags": [
+      "classification",
+      "taxonomy",
+      "resources"
+    ],
+    "doi": "10.1177/14738716221126992"
+  },
+  {
+    "id": "2",
+    "title": "A Survey of Information Visualization Books",
+    "authors": "D. Rees and R. S. Laramee",
+    "year": "2019",
+    "topic": "Visualization Resources",
+    "method": "Survey",
+    "evaluation": "None",
+    "tags": [
+      "book analysis",
+      "coverage",
+      "education"
+    ],
+    "doi": "10.1111/cgf.13595"
+  },
+  {
+    "id": "3",
+    "title": "Survey of Surveys (SoS)",
+    "authors": "L. McNabb and R. S. Laramee",
+    "year": "2017",
+    "topic": "Meta-Surveys on InfoVis",
+    "method": "Meta-Survey",
+    "evaluation": "None",
+    "tags": [
+      "meta-review",
+      "survey of surveys",
+      "categorization"
+    ],
+    "doi": "10.1111/cgf.13212"
+  },
+  {
+    "id": "4",
+    "title": "EHR STAR: The State-of-the-Art in Interactive EHR Visualization",
+    "authors": "Q. Wang and R. S. Laramee",
+    "year": "2022",
+    "topic": "EHR Visualization",
+    "method": "Technical Survey",
+    "evaluation": "None",
+    "tags": [
+      "EHR",
+      "classification",
+      "visual encoding"
+    ],
+    "doi": "10.1111/cgf.14424"
+  },
+  {
+    "id": "5",
+    "title": "Marjorie: Visualizing Type 1 Diabetes Data to Support Pattern Exploration",
+    "authors": "A. Scimone, K. Eckelt, M. Streit, and A. Hinterreiter",
+    "year": "2024",
+    "topic": "T1D Pattern Exploration",
+    "method": "Interactive System",
+    "evaluation": "User Evaluation",
+    "tags": [
+      "diabetes",
+      "glucose",
+      "timeline",
+      "UI"
+    ],
+    "doi": "10.1109/TVCG.2023.3326936"
+  },
+  {
+    "id": "6",
+    "title": "Cartographic Treemaps for the Visualization of Public Healthcare Data",
+    "authors": "C. Tong, R. Roberts, R. S. Laramee, D. Thayer, and D. Berridge",
+    "year": "2017",
+    "topic": "Public Health Mapping",
+    "method": "Application",
+    "evaluation": "None",
+    "tags": [
+      "public health",
+      "map",
+      "treemap",
+      "geographic"
+    ],
+    "doi": "10.2312/cgvc.20171276"
+  },
+  {
+    "id": "7",
+    "title": "Exploring the Role of Blood Glucose Prediction Technologies for Type 1 Diabetes Self-Management",
+    "authors": "C.-M. Barth, J. Bernard, and E. M. Huang",
+    "year": "2024",
+    "topic": "T1D Glucose Prediction",
+    "method": "UX Study + Prediction System",
+    "evaluation": "User Study",
+    "tags": [
+      "prediction",
+      "diabetes",
+      "interface",
+      "UX"
+    ],
+    "doi": "10.1145/3613904.3642234"
+  },
+  {
+    "id": "8",
+    "title": "Deep Patient: An Unsupervised Representation to Predict the Future of Patients from the Electronic Health Records",
+    "authors": "R. Miotto, L. Li, B. A. Kidd, and J. T. Dudley",
+    "year": "2016",
+    "topic": "Disease Prediction from EHR",
+    "method": "Deep Learning (Autoencoder)",
+    "evaluation": "Quantitative (ROC, AUC)",
+    "tags": [
+      "EHR",
+      "prediction",
+      "autoencoder"
+    ],
+    "doi": "10.1038/srep26094"
+  },
+  {
+    "id": "9",
+    "title": "Effects of a Mediterranean-style Diet on the Need for Antihyperglycemic Drug Therapy in Patients with Newly Diagnosed Type 2 Diabetes",
+    "authors": "K. Esposito et al.",
+    "year": "2009",
+    "topic": "Mediterranean Diet & Diabetes",
+    "method": "RCT",
+    "evaluation": "Survival Analysis (Kaplan-Meier)",
+    "tags": [
+      "diet",
+      "Mediterranean",
+      "diabetes",
+      "intervention"
+    ],
+    "doi": "10.7326/0003-4819-151-5-200909010-00004"
+  },
+  {
+    "id": "10",
+    "title": "Vegetarian, Vegan Diets and Multiple Health Outcomes: A Systematic Review with Meta-analysis of Observational Studies",
+    "authors": "M. Dinu, R. Abbate, G. F. Gensini, A. Casini, and F. Sofi",
+    "year": "2017",
+    "topic": "Vegetarian Diet & Health Outcomes",
+    "method": "Meta-analysis",
+    "evaluation": "Quantitative (Forest Plot)",
+    "tags": [
+      "vegetarian",
+      "chronic disease",
+      "health outcomes"
+    ],
+    "doi": "10.1080/10408398.2016.1138447"
+  }
+]
